@@ -3,7 +3,7 @@
 > **A complete, modular methodology for Hack The Box, TryHackMe, and OSCP-level machines.**  
 > Designed for beginners and intermediate practitioners. Follow it phase by phase, or jump to any section with the links below.
 
-**Author:** [cyb3ritic](https://github.com/cyb3ritic) · **Version:** 3.0 · **Updated:** July 2025
+**Author:** [cyb3ritic](https://github.com/cyb3ritic) · **Version:** 3.0 · **Updated:** July 2026
 
 ---
 
